@@ -14,7 +14,7 @@ namespace EmloyeeWin
 {
     public partial class Form1 : Form
     {
-        string connection = "Server=leek.database.windows.net,1433;Database=Vm;User Id=leek.sql;Password=Lak@230204;";
+        string connection = "Server=leek.database.windows.net,1433;Database=Vm;User Id=leek.sql;Password=##########;";
         SqlConnection sqlcon = null;
 
         public Form1()
